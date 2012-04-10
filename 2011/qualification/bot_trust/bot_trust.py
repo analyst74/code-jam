@@ -14,6 +14,7 @@ def get_data(filename):
         for j in xrange(button_count):
             button_list.append((pieces.pop(0),int(pieces.pop(0))))
 
+    f.close()
     return case_list
     
 def process_case(case):
