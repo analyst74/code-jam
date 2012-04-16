@@ -1,0 +1,150 @@
+Case #1 of 50
+case = (852, 897)
+res = 3
+Case #2 of 50
+case = (1000000, 1000000)
+res = 0
+Case #3 of 50
+case = (1012048, 1976664)
+res = 283632
+Case #4 of 50
+case = (3745, 5600)
+res = 532
+Case #5 of 50
+case = (2176, 9539)
+res = 8113
+Case #6 of 50
+case = (1080945, 1979958)
+res = 251718
+Case #7 of 50
+case = (1098413, 1938463)
+res = 230169
+Case #8 of 50
+case = (1391, 7578)
+res = 5770
+Case #9 of 50
+case = (74, 80)
+res = 0
+Case #10 of 50
+case = (1079301, 1968237)
+res = 248022
+Case #11 of 50
+case = (1275988, 1742563)
+res = 45279
+Case #12 of 50
+case = (1041910, 1961253)
+res = 258662
+Case #13 of 50
+case = (1081627, 1944857)
+res = 238544
+Case #14 of 50
+case = (1030327, 1951684)
+res = 260436
+Case #15 of 50
+case = (1289432, 1852118)
+res = 65796
+Case #16 of 50
+case = (58487, 59695)
+res = 24
+Case #17 of 50
+case = (1087121, 1995414)
+res = 255276
+Case #18 of 50
+case = (29861, 83414)
+res = 55690
+Case #19 of 50
+case = (514, 693)
+res = 34
+Case #20 of 50
+case = (1000412, 1930022)
+res = 272323
+Case #21 of 50
+case = (1046841, 1904629)
+res = 228188
+Case #22 of 50
+case = (1097745, 1991707)
+res = 250020
+Case #23 of 50
+case = (10000, 10001)
+res = 0
+Case #24 of 50
+case = (306588, 957975)
+res = 1054365
+Case #25 of 50
+case = (1071939, 1971575)
+res = 251562
+Case #26 of 50
+case = (1098766, 1935983)
+res = 229375
+Case #27 of 50
+case = (101904, 706409)
+res = 911870
+Case #28 of 50
+case = (28, 31)
+res = 0
+Case #29 of 50
+case = (1424639, 1831546)
+res = 32678
+Case #30 of 50
+case = (354116, 354116)
+res = 0
+Case #31 of 50
+case = (1289416, 1986125)
+res = 97493
+Case #32 of 50
+case = (1000000, 2000000)
+res = 299997
+Case #33 of 50
+case = (344152, 755791)
+res = 431149
+Case #34 of 50
+case = (19354, 98428)
+res = 124863
+Case #35 of 50
+case = (410677, 416915)
+res = 76
+Case #36 of 50
+case = (1929893, 1929893)
+res = 0
+Case #37 of 50
+case = (1098786, 1218840)
+res = 15844
+Case #38 of 50
+case = (18849, 99872)
+res = 131488
+Case #39 of 50
+case = (1000, 9999)
+res = 12060
+Case #40 of 50
+case = (1053383, 1907516)
+res = 226334
+Case #41 of 50
+case = (1074071, 1901515)
+res = 217277
+Case #42 of 50
+case = (1094, 2799)
+res = 473
+Case #43 of 50
+case = (27760, 86401)
+res = 68059
+Case #44 of 50
+case = (1269094, 1934743)
+res = 91221
+Case #45 of 50
+case = (4, 4)
+res = 0
+Case #46 of 50
+case = (764, 788)
+res = 2
+Case #47 of 50
+case = (1092342, 1919529)
+res = 224977
+Case #48 of 50
+case = (598996, 724901)
+res = 35550
+Case #49 of 50
+case = (1761080, 1884749)
+res = 2849
+Case #50 of 50
+case = (547226, 852005)
+res = 230401
