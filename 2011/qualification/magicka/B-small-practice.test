@@ -1,0 +1,300 @@
+
+0 0 2 EA
+Case #1: [E, A]
+
+1 QRI 0 4 RRQR
+Case #2: [R, I, R]
+
+1 QFT 1 QF 7 FAQFDFQ
+Case #3: [F, D, T]
+
+1 EEZ 1 QE 7 QEEEERA
+Case #4: [Z, E, R, A]
+
+0 1 QW 2 QW
+Case #5: []
+
+1 EDK 1 SF 10 SWADEASAEF
+Case #6: []
+
+1 ARG 1 QF 10 ARQRSQFFSQ
+Case #7: []
+
+1 FRG 1 QD 10 SQAERRFDRF
+Case #8: [G]
+
+1 QAI 1 SR 10 ADWFDFDQAS
+Case #9: [A, D, W, F, D, F, D, Q, A, S]
+
+1 EQB 1 WE 10 SQQEDAQQSD
+Case #10: [S, Q, B, D, A, Q, Q, S, D]
+
+1 WRG 1 SR 10 DEEARRWWRR
+Case #11: [D, E, E, A, R, G, W, R, R]
+
+1 RST 1 SR 10 QEAARQRSEE
+Case #12: [E, E]
+
+1 RWX 1 SE 10 WFEFRWFQRS
+Case #13: []
+
+1 AQP 1 AE 10 SRSRRQAQSQ
+Case #14: [S, R, S, R, R, P, Q, S, Q]
+
+1 REI 1 WE 10 RDAFDQEREQ
+Case #15: [R, D, A, F, D, Q, I, E, Q]
+
+0 1 DR 10 FREEREWARD
+Case #16: []
+
+1 DFT 1 QE 10 SFDSESEEAS
+Case #17: [S, T, S, E, S, E, E, A, S]
+
+1 AFJ 1 SR 10 SAFFQDAERQ
+Case #18: [Q]
+
+1 QFO 1 WD 10 WERAAEWFQQ
+Case #19: [W, E, R, A, A, E, W, O, Q]
+
+1 FAY 1 WR 10 QRASAFWRSQ
+Case #20: [R, S, Q]
+
+1 AEC 1 AD 10 EAERQDSEDQ
+Case #21: [C, E, R, Q, D, S, E, D, Q]
+
+1 QFK 1 WF 10 WQWFFRFFQD
+Case #22: [F, R, F, K, D]
+
+1 DQN 1 SE 10 SEDDDQFAFA
+Case #23: [D, D, D, Q, F, A, F, A]
+
+1 SQX 1 WF 10 AEFFWAEFSQ
+Case #24: [A, E, F, S, Q]
+
+1 ERH 1 AR 10 QREWEDSEAQ
+Case #25: [Q, H, W, E, D, S, E, A, Q]
+
+1 QSJ 1 WF 10 SEWERQSFDE
+Case #26: [D, E]
+
+1 EEK 1 QD 10 FFFQSSSSEE
+Case #27: [F, F, F, Q, S, S, S, S, K]
+
+1 EQX 1 WR 10 ASSFEAQEQA
+Case #28: [A, S, S, F, E, A, X, Q, A]
+
+1 EWT 1 AD 10 ERDDWASEWE
+Case #29: [S, E, T]
+
+1 EWZ 1 WD 10 FARADWQAEW
+Case #30: [Q, A, E, W]
+
+1 WEY 1 AR 10 WEFFWFAQAS
+Case #31: [W, E, F, F, W, F, A, Q, A, S]
+
+1 WQH 1 SD 10 WWSWQAWQDA
+Case #32: [A]
+
+1 AQG 1 AR 10 QASADQAAFA
+Case #33: [G, S, A, D, G, A, F, A]
+
+1 EFT 1 QR 10 WASWFESEWD
+Case #34: [W, A, S, W, T, S, E, W, D]
+
+1 EFT 1 SE 10 REFEQDSFRS
+Case #35: [F, R, S]
+
+1 WAO 1 SR 10 WAFFSFEFDA
+Case #36: [W, A, F, F, S, F, E, F, D, A]
+
+1 WFX 1 WE 10 RDFDWFFWSQ
+Case #37: [R, D, F, D, W, F, X, S, Q]
+
+1 DQL 1 SE 10 FESQDQDAFE
+Case #38: [L, L, A, F, E]
+
+1 WWN 1 AR 10 FAAFWDWWDD
+Case #39: [F, A, A, F, W, D, N, D, D]
+
+1 SAI 1 SE 10 QEFWFERESA
+Case #40: [A]
+
+1 QEN 1 AQ 10 AWAREEQESS
+Case #41: [A, W, A, R, E, N, E, S, S]
+
+1 EWM 1 QD 10 AQQFWESDWE
+Case #42: [M]
+
+1 ASG 1 AS 10 AQWERASDFS
+Case #43: [D, F, S]
+
+1 FWT 1 SE 10 ESARFWEQWW
+Case #44: [A, R, F, W, E, Q, W, W]
+
+1 DAT 1 QR 10 FRDAFREQFD
+Case #45: [F, D]
+
+1 REB 1 WE 10 DARESDQQDQ
+Case #46: [D, A, R, E, S, D, Q, Q, D, Q]
+
+1 SDB 1 QD 10 RSESQSDESQ
+Case #47: [E, S, Q]
+
+1 WSJ 1 AE 10 DSRFQRWSDW
+Case #48: [D, S, R, F, Q, R, W, S, D, W]
+
+1 AAZ 1 AQ 10 AAAAAAAAAA
+Case #49: [Z, Z, Z, Z, Z]
+
+1 EQX 1 QR 10 FFRDEDQEAQ
+Case #50: [E, A, Q]
+
+1 QWY 1 WD 10 AEFFDFESWQ
+Case #51: [Q]
+
+1 RDU 1 SD 10 FDRFARSWEQ
+Case #52: [F, U, F, A, R, S, W, E, Q]
+
+1 SSG 1 WR 10 DDEESSSWSR
+Case #53: []
+
+1 WAI 1 QF 10 DRDQQFRFWA
+Case #54: [R, F, W, A]
+
+1 DWB 1 WR 10 SRSQDWREWA
+Case #55: [A]
+
+1 ADU 1 QE 10 AWADFFDEWD
+Case #56: [A, W, A, D, F, F, D, E, W, D]
+
+1 QDU 1 SR 10 EQREQDWRFR
+Case #57: [E, Q, R, E, Q, D, W, R, F, R]
+
+1 SFM 1 WR 10 FSEDEASDDR
+Case #58: [M, E, D, E, A, S, D, D, R]
+
+1 QRP 1 AF 10 DWEDWAWQRF
+Case #59: []
+
+1 RWU 1 WF 10 RRSWAWEFWR
+Case #60: [U]
+
+1 WSZ 1 QR 10 RSWWRFWRSR
+Case #61: [R, Z, W, R, F, W, R, S, R]
+
+1 WFZ 1 QF 10 SSAWFDQSQS
+Case #62: [S, Q, S]
+
+0 0 10 AAAAAAAAAA
+Case #63: [A, A, A, A, A, A, A, A, A, A]
+
+1 EDM 1 WF 10 SQQRAREDRA
+Case #64: [S, Q, Q, R, A, R, E, D, R, A]
+
+0 0 1 F
+Case #65: [F]
+
+1 WAM 1 AD 10 AQSWAEQEWF
+Case #66: [A, Q, S, W, A, E, Q, E, W, F]
+
+1 WQI 1 QF 10 SWQWEDDWQD
+Case #67: [S, W, I, E, D, D, W, Q, D]
+
+1 WQM 1 QE 10 QAFASWQQSA
+Case #68: [Q, A, F, A, S, W, Q, Q, S, A]
+
+1 RDU 1 QD 10 RDSRDSWFRA
+Case #69: [R, D, S, R, D, S, W, F, R, A]
+
+1 QQU 1 SD 10 REAQQSSRQF
+Case #70: [R, E, A, U, S, S, R, Q, F]
+
+1 EEY 1 WR 10 WRWESRAEEA
+Case #71: [A, Y, A]
+
+1 WDN 1 SF 10 AEQWQAQDWF
+Case #72: [A, E, Q, W, Q, A, Q, N, F]
+
+1 DDN 1 WE 10 DDRSQDFRQQ
+Case #73: [N, R, S, Q, D, F, R, Q, Q]
+
+1 SWL 1 WR 10 SRRSQWSWEW
+Case #74: [S, W, E, W]
+
+1 FSC 1 QF 10 QDSSSQQAFS
+Case #75: [S]
+
+1 RQC 1 AR 10 WESRERRERQ
+Case #76: [W, E, S, R, E, R, R, E, R, Q]
+
+1 AAL 1 SE 10 AADQFWWSFQ
+Case #77: [L, D, Q, F, W, W, S, F, Q]
+
+1 WWZ 1 WE 10 WWFWQWDFQR
+Case #78: [Z, F, W, Q, W, D, F, Q, R]
+
+1 SDT 1 SE 10 WADSWWSSED
+Case #79: [D]
+
+1 DWY 1 QE 10 DWDRDRWWFA
+Case #80: [D, Y, R, D, R, W, W, F, A]
+
+1 DFL 1 WD 10 RDDQWRWDDF
+Case #81: [D, F]
+
+0 1 DR 8 REWARDED
+Case #82: [E, D]
+
+1 ASG 1 AS 10 QQWERASDFS
+Case #83: [D, F, S]
+
+1 SRT 1 QR 10 QRSDFERDQS
+Case #84: [S]
+
+1 RFC 1 WD 10 FRFAQDDDAS
+Case #85: [C, F, A, Q, D, D, D, A, S]
+
+1 AEY 1 SD 10 FDSREQRAEA
+Case #86: [R, E, Q, R, A, Y]
+
+1 RRC 1 SE 10 WSFAFAARRS
+Case #87: [W, S, F, A, F, A, A, C, S]
+
+0 0 9 DEAFDEARS
+Case #88: [D, E, A, F, D, E, A, R, S]
+
+1 ASH 1 AR 10 EAWFWASREA
+Case #89: [E, A]
+
+1 SEM 1 QF 10 DSESAWSRSD
+Case #90: [D, S, M, A, W, S, R, S, D]
+
+1 SQN 1 AR 10 WWASRQDFSQ
+Case #91: [Q, D, F, S, Q]
+
+1 AEJ 1 SF 10 RWQEAWAQRE
+Case #92: [R, W, Q, J, W, A, Q, R, E]
+
+1 QQK 1 WF 10 DDREQQARDE
+Case #93: [D, D, R, E, K, A, R, D, E]
+
+1 SEZ 1 QE 10 ERSREESSFF
+Case #94: [E, R, S, R, E, Z, S, F, F]
+
+1 QRJ 1 SR 10 WWRQRAWFFW
+Case #95: [W, W, J, R, A, W, F, F, W]
+
+1 FQY 1 QD 10 ARSDWSQQFW
+Case #96: [Y, W]
+
+1 FFM 1 AR 10 SQQFFFRFWR
+Case #97: [S, Q, Q, M, F, R, F, W, R]
+
+1 ESP 0 7 DRESSES
+Case #98: [D, R, E, S, P, S]
+
+1 RAI 1 AR 10 AADRDRAARD
+Case #99: [I, D]
+
+1 QEY 1 WE 10 EQAARWAEDS
+Case #100: [D, S]
