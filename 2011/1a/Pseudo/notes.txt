@@ -1,0 +1,2 @@
+1, use breadth first to get all possible ways to play
+2, put in cache of card in hand + # of remaining card in deck as processed, ignore future resolutions for this result
