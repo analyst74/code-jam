@@ -37,7 +37,7 @@ def get_square_palindromes(pal_list, left, right):
 
 if __name__ == '__main__':
     left = 0
-    right = 10 ** 11
+    right = 10 ** 14
     t0 = clock()
     all_pals = generate_palindromes(right)
     t1 = clock()

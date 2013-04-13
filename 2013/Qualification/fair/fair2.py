@@ -1,23 +1,24 @@
 __author__ = 'Bill'
 
-import sys, time
+import sys, time, math
 
-def generate_palindromes(right=1000):
+def generate_palindromes(right=10**14):
     result = [i for i in range(10) if i <= right]
-    right_str = str(right)
-    base_right = int(right / (10 ** int(len(right_str)/2)))
+    base_right = int(math.sqrt(right))
 
     for i in range(1, base_right):
         i_str = str(i)
         pal = int(i_str + i_str[::-1])
         if pal <= right:
             result.append(pal)
-        for i in range(10):
-            pal = int(i_str + str(i) + i_str[::-1])
-            if pal <= right:
-                result.append(pal)
+            if int(i_str + '0' + i_str[::-1]) <= right:
+                for i in range(10):
+                    pal = int(i_str + str(i) + i_str[::-1])
+                    if pal <= right:
+                        result.append(pal)
 
     return sorted(result)
+
 
 def get_square_palindromes(pal_list, left, right):
     result = []
@@ -30,25 +31,29 @@ def get_square_palindromes(pal_list, left, right):
 
     return result
 
+
 def is_palindrome_reverse(s):
     s = str(s)
     return s == s[::-1]
 
 def parse_case(file):
     a, b = map(int, file.readline().split())
-
     return a, b
-
 
 def process_case(case):
     a, b = case
-    all_pals = generate_palindromes(b)
-    square_pals = get_square_palindromes(all_pals, a, b)
-    #print(all_pals, square_pals)
-    return len(square_pals)
+    result = 0
+    for pal in square_pals:
+        if a <= pal <= b:
+            result += 1
+    return result
 
 if __name__ == '__main__':
     t0 = time.clock()
+
+    all_pals = generate_palindromes(10**14)
+    square_pals = get_square_palindromes(all_pals, 0, 10**14)
+
     if len(sys.argv) > 1:
         filename = sys.argv[1]
     else:
