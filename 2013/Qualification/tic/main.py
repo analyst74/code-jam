@@ -6,7 +6,7 @@ from tic import *
 if len(sys.argv) > 1:
     filename = sys.argv[1]
 else:
-    filename = "A-large.in"
+    filename = "sample.in"
 
 f = open(filename, "r")
 case_count = int(f.readline())
